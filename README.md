@@ -11,3 +11,4 @@ The Game Plan
 - Stack them together
 - Make it learn through backpropagation
 - Apply it to POS tagging
+
